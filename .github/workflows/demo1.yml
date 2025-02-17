@@ -5,7 +5,7 @@ on:
       - opened
     branches:
       - main
-      - 'release/*''
+      - 'release/*'
       - 'feature/*'
   workflow_dispatch: 
   push:
